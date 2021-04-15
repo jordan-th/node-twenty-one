@@ -1,0 +1,10 @@
+{
+  "bestOf" : "Best of how many rounds?\n",
+  "bestOfInvalid": "Invalid input. Enter an odd integer between 1 and 10\n",
+  "hitOrStay": "Hit or stay?\n",
+  "hitOrStayInvalid": "Invalid input. Enter 'hit' or 'stay'\n",
+  "nextRound": "\nHit Enter to begin next round\n",
+  "nextRoundInvalid": "Enter no text, hit Enter\n",
+  "playAgain": "\nPlay again? (y/n)\n",
+  "playAgainInvalid": "Invalid input. Enter 'y' or 'n'\n"
+}
